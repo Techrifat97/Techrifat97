@@ -6,9 +6,9 @@ def who_am_i():
     contact = "rifatshaon.tech@gmail.com"
 
     print(f"👋 Hi, I’m @Techrifat97")
-    print(f"👀 I’m interested in {interests}")
-    print(f"🌱 I’m currently learning {learning}")
-    print(f"💞️ I’m looking to collaborate on {collaboration}")
-    print(f"📫 How to reach me: {contact}")
+    print(f"👀 I’m interested in cloud based service")
+    print(f"🌱 I’m currently learning kubernetis")
+    print(f"💞️ I’m looking to collaborate on micro-architecture based project")
+    print(f"📫 How to reach me: rifatshaon.tech@gmail.com")
 
 who_am_i()
